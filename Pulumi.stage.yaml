@@ -1,0 +1,9 @@
+config:
+  PulumiPoc:data:
+    env: "minikube"
+    # for example env: aws, minikube.
+    services:
+          - "kafka"
+          - "zookeeper"
+          - "redis"
+          - "postgres"

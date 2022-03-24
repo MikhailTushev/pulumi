@@ -1,0 +1,3 @@
+name: PulumiPoc
+runtime: dotnet
+description: IaC process manager
